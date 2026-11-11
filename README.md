@@ -118,3 +118,23 @@ I'm a software developer who works across **machine learning**, **AI agents** an
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glockrover&theme=github_dark" alt="Contribution activity" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Glockrover&theme=github_dark" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Glockrover&theme=github_dark&utcOffset=2" alt="Commits by time of day" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glockrover&theme=github_dark" alt="Top languages by repository" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Glockrover&theme=github_dark" alt="Top languages by commit" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Glockrover&background=0d1117&border=30363d&stroke=30363d&ring=61dafb&fire=a78bfa&currStreakNum=61dafb&currStreakLabel=61dafb&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" width="60%" />
+</p>
