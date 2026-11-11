@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/typing-name.svg" alt="Ayanda Dlokova — typed into a React component" width="100%" />
+</p>
+
 ## Hi there 👋
 
 <!--
